@@ -68,14 +68,17 @@ export default function Home() {
             </div>
             <p>
               Full-stack GenAI chatbot for university knowledge retrieval with
-              function calling, Pinecone vector database, and multimodal inputs.
+              function calling, vector database, and multimodal inputs.
             </p>
+            <a href="https://cstuchat.wordpress.com" target="_blank" rel="noreferrer">
+              View deployed app
+            </a>
             <a
-              href="https://github.com/dnlamvhit/CSTU-AI-Chatbot-Project"
+              href="https://www.linkedin.com/feed/update/urn:li:activity:7417629323421167616/"
               target="_blank"
               rel="noreferrer"
             >
-              View repository
+              View LinkedIn Post
             </a>
           </article>
           <article className="card">
